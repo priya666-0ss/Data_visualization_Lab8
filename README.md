@@ -2,9 +2,9 @@
 
 I Created the following graphics for Iris data available in UCI repository or default repository of R.
 
-Histograms of all the properties
-Scatter plot of data points with each species in different color
-Violin or Box plot for separate species in a single plot
+Histograms of all the properties                                                      
+Scatter plot of data points with each species in different color                                               
+Violin or Box plot for separate species in a single plot                                             
 
 
 In this graphics I added the following interactivity:
